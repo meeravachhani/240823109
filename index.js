@@ -69,6 +69,10 @@
 //     console.log(i);
 //   }
   
+// 10
+const num=5023
+
+
 // // 11
 // var sum=0
 // for(i=1;i<=3;i++)

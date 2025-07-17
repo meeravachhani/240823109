@@ -57,9 +57,19 @@
 // }
 // console.log(fact)
 
-// // 6multiplication table
+// // 6 multiplication table
 // const num=3
 // for(i=1;i<=10;i++)
 // {
 //     console.log(num+"*"+i+"="+num*i)
 // }
+
+// 7
+for ( i =4; i >= 1; i--) {
+    console.log(i);
+  }
+  
+// 20
+const a=2
+const b=3
+console.log(a**b)
